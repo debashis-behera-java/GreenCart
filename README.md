@@ -394,22 +394,6 @@ http://localhost:5173
 * Inventory Management
 * Modern UI Development
 
----
-
-## 👨‍💻 Author
-
-### Soubhagya Kumar Behera
-
-Java Full Stack Developer | 2026
-
-* GitHub: https://github.com/soubhagya-behera
-
-* LinkedIn: https://www.linkedin.com/in/soubhagyakumar-java
-
-* Portfolio: https://soubhagya-portfolio-olive.vercel.app
-
----
-
 ## ⭐ Support
 
 If you found this project useful, consider giving it a ⭐ on GitHub.
